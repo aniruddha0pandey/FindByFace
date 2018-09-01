@@ -32,11 +32,13 @@
  - []()
  
 ```shell
-▖~ # run as administrator
+▖~ # run as administrator in Anaconda Prompt
 ▖~ # Once Miniconda is installed, conda pkg-manager used to install packages, create environments etc.
 ▖~ conda update -n base conda
-▖~ conda create -n mypyenv python
-▖~ conda activate mypyenv
+▖~ conda create -n FindByFace
+▖~ activate FindByFace
+▖~ conda install python=2 numpy matplotlib
+▖~ 
 ```
 
 
