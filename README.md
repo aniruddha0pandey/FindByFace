@@ -58,6 +58,7 @@
 ▖~ npm install -g serve
 ▖~ serve -s build
 ```
+<sub>Navigate to http://192.168.209.1:5000/ if not automatically redirected.</sub>
 
 
 ## File Structure
