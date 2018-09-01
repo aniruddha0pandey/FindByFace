@@ -28,11 +28,12 @@
 ## Dependencies
 
  - [NodeJs](https://nodejs.org/en/download/) and [npm]()
- - [Conda]()
+ - [MiniConda]()
+ - []()
  
 ```
-▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git && cd FindByFace
-▖~ 
+▖~ # Once Miniconda is installed, you can use the conda package manager to install any other packages and create environments, etc.
+▖~ conda 
 ```
 
 
