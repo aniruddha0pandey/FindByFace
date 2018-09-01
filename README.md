@@ -31,26 +31,28 @@
  - [MiniConda](https://conda.io/miniconda.html)
  - []()
  
-```
-▖~ conda update -n base conda # Once Miniconda is installed, conda pkg-manager used to install packages, create environments etc.
+```shell
+▖~ # run as administrator
+▖~ # Once Miniconda is installed, conda pkg-manager used to install packages, create environments etc.
+▖~ conda update -n base conda
 ```
 
 
 ## Installation
 
 - Downloads
-```
+```shell
 ▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git && cd FindByFace
 ▖~ 
 ```
 - Build
-```
+```shell
 ▖~ npm install
 ▖~ npm start
 ```
 <sub>Navigate to http://localhost:3000/ if not automatically redirected.</sub>
 - Deploy
-```
+```shell
 ▖~ npm install -g serve
 ▖~ serve -s build
 ```
