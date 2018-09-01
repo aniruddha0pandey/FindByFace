@@ -32,8 +32,7 @@
  - []()
  
 ```
-▖~ # Once Miniconda is installed, you can use the conda package manager to install any other packages and create environments, etc.
-▖~ conda 
+▖~ conda # Once Miniconda is installed, conda pkg manager used to install any other packages, create environments etc.
 ```
 
 
