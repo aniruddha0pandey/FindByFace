@@ -1,0 +1,39 @@
+# ReactJS #
+####################################
+
+# dependencies
+node_modules
+
+# production
+build/
+
+# Logs
+*.log*
+
+# Grunt intermediate storage
+.grunt
+
+# Optional npm cache directory
+.npm
+
+# misc
+.DS_STORE
+scripts/flow/*/.flowconfig
+*~
+*.pyc
+_SpecRunner.html
+__benchmarks__
+remote-repo/
+coverage/
+.module-cache
+fixtures/dom/public/react-dom.js
+fixtures/dom/public/react.js
+test/the-files-to-test.generated.js
+chrome-user-data
+*.sublime-project
+*.sublime-workspace
+.idea
+*.iml
+*.swp
+*.swo
+
