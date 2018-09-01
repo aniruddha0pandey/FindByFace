@@ -28,7 +28,7 @@
 ## Dependencies
 
  - [NodeJs](https://nodejs.org/en/download/) and [npm]()
- - [MiniConda]()
+ - [MiniConda](https://conda.io/miniconda.html)
  - []()
  
 ```
