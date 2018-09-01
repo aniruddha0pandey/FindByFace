@@ -38,6 +38,7 @@
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
 ▖~ conda install python=2 numpy matplotlib
+▖~ cd opencv
 ▖~ 
 ```
 
