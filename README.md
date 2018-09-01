@@ -1,8 +1,9 @@
-# [Find By Face](https://demos.creative-tim.com/material-kit-react) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Kit%20PRO%20is%20a%20Bootstrap%20UI%20Kit%20with%20a%20fresh,%20new%20design%20inspired%20by%20Google's%20Material%20Design%20%E2%9D%A4%EF%B8%8Fhttps%3A//demos.creative-tim.com/material-kit-pro/presentation.html%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23premium%20%20via%20%40CreativeTim)
+# [Find By Face](https://demos.creative-tim.com/material-kit-react)
 
 
 ![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/83/original/opt_mk_react_thumbnail.jpg)
+![Product Presentation Image](cover.jpg)
+
 
 ## Table of Contents
 
@@ -37,24 +38,22 @@
 ## Installation
 
 - Downloads
-
 ```
 ▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git && cd FindByFace
 ▖~ 
 ```
-
 - Build
 ```
 ▖~ npm install
 ▖~ npm start
 ```
 <sub>Navigate to http://localhost:3000/ if not automatically redirected.</sub>
-
 - Deploy
 ```
 ▖~ npm install -g serve
 ▖~ serve -s build
 ```
+
 
 ## File Structure
 Within the download you'll find the following directories and files:
@@ -172,7 +171,6 @@ FindByFace/
 At present, we officially aim to support the last two versions of the following browsers:
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
 
 
 ## Reporting Issues
