@@ -16,6 +16,12 @@ build/
 # Optional npm cache directory
 .npm
 
+# Environment Variables
+.env
+
+# Babel dependencies
+.babelrc
+
 # misc
 .DS_STORE
 scripts/flow/*/.flowconfig
