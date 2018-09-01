@@ -2,9 +2,7 @@
 
 
 ![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Product Presentation Image 1](public/cover-1.png)
-![Product Presentation Image 2](public/cover-2.png)
-![Product Presentation Image 3](public/cover-3.png)
+![Product Presentation Image](public/cover.png)
 
 
 ## Table of Contents
