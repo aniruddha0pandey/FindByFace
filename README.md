@@ -27,9 +27,9 @@
 
 ## Dependencies
 
- - [NodeJs](https://nodejs.org/en/download/) and [npm]()
+ - [NodeJs](https://nodejs.org/en/download/) and npm (alrealy bundled w/ node)
  - [MiniConda](https://conda.io/miniconda.html)
- - []()
+ - [OpenCV](https://sourceforge.net/projects/opencvlibrary/)
  
 ```shell
 ▖~ # run as administrator in Anaconda Prompt
