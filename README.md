@@ -169,8 +169,7 @@ FindByFace/
 
 ## Contributors
 
-<a href="aniruddha0pandey"> <img alt="Aniruddha Pandey" src="https://avatars1.githubusercontent.com/u/31156696?s=460&v=4" width="70" height="70" /> </a> <a href="shubham007kumar"> <img alt="Shubham Kumar" src="https://avatars1.githubusercontent.com/u/34106521?s=460&v=4" width="70" height="70" /> </a>
-
+![Aniruddha Pandey](https://avatars1.githubusercontent.com/u/31156696?s=460&v=4)](aniruddha0pandey) ![Shubham Kumar](https://avatars1.githubusercontent.com/u/34106521?s=460&v=4)](shubham007kumar)
 
 ## Browser Support
 
