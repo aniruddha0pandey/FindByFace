@@ -13,6 +13,7 @@
 * [Dependencies](#dependencies)
 * [Installation](#installation)
 * [File Structure](#file-structure)
+* [Contributors](#contributors)
 * [Browser Support](#browser-support)
 * [Reporting Issues](#reporting-issues)
 
@@ -164,6 +165,11 @@ FindByFace/
         └── SignupPage
             └── SignupPage.jsx
 ```
+
+
+## Contributors
+
+<img alter="aniruddha0pandey" src="https://avatars1.githubusercontent.com/u/31156696?s=460&v=4" width="70" height="70" /> <img alter="shubham007kumar" src="https://avatars1.githubusercontent.com/u/34106521?s=460&v=4" width="70" height="70" /> 
 
 
 ## Browser Support
