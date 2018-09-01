@@ -32,7 +32,7 @@
  - []()
  
 ```
-▖~ conda update conda # Once Miniconda is installed, conda pkg manager used to install any other packages, create environments etc.
+▖~ conda update -n base conda # Once Miniconda is installed, conda pkg-manager used to install packages, create environments etc.
 ```
 
 
