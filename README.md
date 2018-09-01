@@ -169,7 +169,10 @@ FindByFace/
 
 ## Contributors
 
-![Aniruddha Pandey](https://avatars1.githubusercontent.com/u/31156696?s=460&v=4)](aniruddha0pandey) ![Shubham Kumar](https://avatars1.githubusercontent.com/u/34106521?s=460&v=4)](shubham007kumar)
+
+
+<a href="../../../../aniruddha0pandey" target="_blank"><img src="https://avatars1.githubusercontent.com/u/31156696?s=460&v=4" 
+alt="Aniruddha Paney" width="70" height="70" border="10" /></a>
 
 ## Browser Support
 
