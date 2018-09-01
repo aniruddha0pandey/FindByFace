@@ -36,6 +36,7 @@
 ▖~ # Once Miniconda is installed, conda pkg-manager used to install packages, create environments etc.
 ▖~ conda update -n base conda
 ▖~ conda create -n mypyenv python
+▖~ conda activate mypyenv
 ```
 
 
