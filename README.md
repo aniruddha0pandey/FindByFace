@@ -33,7 +33,6 @@
  
 ```shell
 ▖~ # run as administrator in Anaconda Prompt
-▖~ # Once Miniconda is installed, conda pkg-manager used to install packages, create environments etc.
 ▖~ conda update -n base conda
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
