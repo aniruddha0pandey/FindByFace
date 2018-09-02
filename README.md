@@ -38,8 +38,8 @@
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
 ▖~ conda install python=2 numpy matplotlib
-▖~ pip install cython
 ▖~ python -m pip install --upgrade pip
+▖~ pip install cython
 ▖~ pip install opencv-python
 ```
 
