@@ -36,7 +36,7 @@
 ▖~ conda update -n base conda
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
-▖~ conda install python=2 numpy matplotlib
+▖~ conda install python=2 numpy # optioanlly <matplotlib>
 ▖~ python -m pip install --upgrade pip
 ▖~ pip install cython
 ▖~ pip install opencv-python
