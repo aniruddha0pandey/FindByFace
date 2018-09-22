@@ -27,7 +27,7 @@
 
 ## Dependencies
 
- - [NodeJs](https://nodejs.org/en/download/) and npm (alrealy bundled w/ node)
+ - [NodeJs](https://nodejs.org/en/download/) and npm (bundled alongside node)
  - [MiniConda](https://conda.io/miniconda.html)
  - [OpenCV](https://sourceforge.net/projects/opencvlibrary/)
  
