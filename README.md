@@ -47,8 +47,7 @@
 
 - Downloads
 ```shell
-▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git && cd FindByFace
-▖~ 
+▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git & cd FindByFace
 ```
 - Build
 ```shell
