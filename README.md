@@ -1,8 +1,8 @@
 # [Find By Face](https://demos.creative-tim.com/material-kit-react)
 
 
-![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Product Presentation Image](public/cover.png)
+![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
+<!--- ![Product Presentation Image](public/cover.png) -->
 
 
 ## Table of Contents
@@ -14,7 +14,6 @@
 * [Installation](#installation)
 * [File Structure](#file-structure)
 * [Contributors](#contributors)
-* [Browser Support](#browser-support)
 * [Reporting Issues](#reporting-issues)
 
 
@@ -179,13 +178,6 @@ FindByFace/
 
 <a href="../../../../aniruddha0pandey" target="_blank"><img src="https://avatars1.githubusercontent.com/u/31156696?s=460&v=4" 
 alt="Aniruddha Paney" width="70" height="70" border="10" /></a> <a href="../../../../shubham007kumar" target="_blank"><img src="https://avatars1.githubusercontent.com/u/34106521?s=460&v=4" alt="Shubham Kumar" width="70" height="70" border="10" /></a>
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
 
 ## Reporting Issues
 
