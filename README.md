@@ -3,7 +3,7 @@
 
 ![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
 <!--- ![Product Presentation Image](public/cover.png) -->  
-This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu.com/) organised in [Lovely Professional University](http://microsoftlpu.com/), Punjab.
+This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu.com/) organised at [Lovely Professional University](http://microsoftlpu.com/), Jalandhar, Punjab.
 
 ## Table of Contents
 
