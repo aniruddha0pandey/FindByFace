@@ -2,11 +2,10 @@
 
 
 ![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
-<!--- ![Product Presentation Image](public/cover.png) -->
-
+<!--- ![Product Presentation Image](public/cover.png) -->  
+This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu.com/) organised in [Lovely Professional University](http://microsoftlpu.com/), Punjab.
 
 ## Table of Contents
-
 
 * [Demo](https://findbyface.000webhostapp.com/)
 * [Frameworks-Used](#frameworks-used)
@@ -35,10 +34,9 @@
 ▖~ conda update -n base conda
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
-▖~ conda install python=2 numpy # optioanlly <matplotlib>
+▖~ conda install python=2 # optioanlly <matplotlib>
 ▖~ python -m pip install --upgrade pip
-▖~ pip install cython
-▖~ pip install opencv-python
+▖~ pip install opencv-python # install <numpy> if not automatically
 ```
 
 
