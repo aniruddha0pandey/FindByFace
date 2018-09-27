@@ -31,12 +31,12 @@ This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu
  
 ```shell
 ▖~ # run as administrator in Anaconda Prompt
-▖~ conda update -n base conda
+▖~ conda update conda
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
 ▖~ conda install python=2 # optioanlly <matplotlib>
 ▖~ python -m pip install --upgrade pip
-▖~ pip install opencv-python # install <numpy> if not automatically
+▖~ pip install opencv-python # install <numpy>, if not automatically
 ```
 
 
