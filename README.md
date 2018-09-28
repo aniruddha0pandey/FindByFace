@@ -3,7 +3,7 @@
 
 ![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
 <!--- ![Product Presentation Image](public/cover.png) -->  
-This is the project we started as a three memeber team (ALB) during [MS Hack 2.0](https://mshacks.microsoftlpu.com/) organised at [Lovely Professional University](http://microsoftlpu.com/), Jalandhar, Punjab. We didn't succeeded to win it though, but still this project is in continuous upgradation and soon will be launched under custom domain.
+This is the project we started as a three memeber team (ALB) during [MS Hack 2.0](https://mshacks.microsoftlpu.com/) organised at [Lovely Professional University](http://microsoftlpu.com/), Jalandhar, Punjab. We didn't succeeded to win it though, but still this project is in continuous upgradation and soon will be launched under custom domain until then it is available [here](https://findbyface.000webhostapp.com/).
 
 ## Table of Contents
 
