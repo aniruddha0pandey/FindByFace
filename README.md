@@ -25,7 +25,7 @@ This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu
 
 ## Dependencies
 
- - [NodeJs](https://nodejs.org/en/download/) and npm (bundled alongside node)
+ - (NVM Recommended) [NodeJs](https://nodejs.org/en/download/) and npm (probably bundled alongside node)
  - [MiniConda](https://conda.io/miniconda.html)
  - [OpenCV](https://sourceforge.net/projects/opencvlibrary/)
  
@@ -44,7 +44,6 @@ This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu
 
 - Downloads
 ```shell
-▖~ # nvm recommend
 ▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git & cd FindByFace
 ```
 - Build
