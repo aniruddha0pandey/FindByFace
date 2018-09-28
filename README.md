@@ -44,6 +44,7 @@ This is the project we started during [MS Hack 2.0](https://mshacks.microsoftlpu
 
 - Downloads
 ```shell
+▖~ # nvm recommend
 ▖~ git clone https://github.com/aniruddha0pandey/FindByFace.git & cd FindByFace
 ```
 - Build
