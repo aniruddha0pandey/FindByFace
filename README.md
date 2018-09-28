@@ -175,7 +175,7 @@ FindByFace/
 ## Contributors
 
 <a href="../../../../aniruddha0pandey" target="_blank"><img src="https://avatars1.githubusercontent.com/u/31156696?s=460&v=4" 
-alt="Aniruddha Paney" width="70" height="70" border="10" /></a> <a href="../../../../shubham007kumar" target="_blank"><img src="https://avatars1.githubusercontent.com/u/34106521?s=460&v=4" alt="Shubham Kumar" width="70" height="70" border="10" /></a>
+alt="Aniruddha Paney" width="70" height="70" border="10" /></a> <a href="../../../../shubham007kumar" target="_blank"><img src="https://avatars1.githubusercontent.com/u/34106521?s=460&v=4" alt="Shubham Kumar" width="70" height="70" border="10" /></a> <a href="../../../../yashpathack" target="_blank"><img src="https://avatars3.githubusercontent.com/u/31958105?s=400&v=4" alt="Yash Pathack" width="70" height="70" border="10" /></a>
 
 ## Reporting Issues
 
