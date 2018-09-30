@@ -25,7 +25,7 @@ This is the project we started as a three memeber team (ALB) during [MS Hack 2.0
 
 ## Dependencies
 
- - (NVM Recommended) [NodeJs](https://nodejs.org/en/download/) and npm (probably bundled alongside node)
+ - (NVM Recommended) [NodeJs](https://nodejs.org/en/download/) and npm (bundled alongside node)
  - [MiniConda](https://conda.io/miniconda.html)
  - [OpenCV](https://sourceforge.net/projects/opencvlibrary/)
  
