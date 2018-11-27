@@ -30,7 +30,7 @@ This is the project we started as a three memeber team (**ALB**) during [MS Hack
  - [OpenCV](https://sourceforge.net/projects/opencvlibrary/)
  
 ```shell
-▖~ # run as administrator in Anaconda Prompt
+▖~ # run as administrator in Anaconda Prompt, otherwise <source> for linux
 ▖~ conda update conda
 ▖~ conda create -n FindByFace
 ▖~ activate FindByFace
