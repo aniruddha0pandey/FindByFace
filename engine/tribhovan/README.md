@@ -13,4 +13,5 @@ A Multi-valued Functional Decomposition Analysis for sdp microprocessor.
 > activate tribhovan
 > python -m pip install --upgrade pip
 > pip install qiskit selenium
+> python ibmq_apikey.py
 ```
