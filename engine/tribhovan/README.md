@@ -12,5 +12,5 @@ A Multi-valued Functional Decomposition Analysis for sdp microprocessor.
 > conda create --name tribhovan python=3
 > activate tribhovan
 > python -m pip install --upgrade pip
-> pip install qiskit
+> pip install qiskit selenium
 ```
