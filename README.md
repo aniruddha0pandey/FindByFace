@@ -18,9 +18,9 @@ This is the project we started as a three memeber team (**ALB**) during [MS Hack
 
 ## Frameworks Used
 
-- [Nodejs](nodejs/node) by Ryan Dahl.
-- [Reactjs](facebook/react) by Facebook.
-- [Material Kit React](creativetimofficial/material-kit-react) by Creative Tim.
+- [Nodejs](../../../../nodejs/node) by Node.js Foundation.
+- [Reactjs](../../../../facebook/react) by Facebook.
+- [Material Kit React](../../../../creativetimofficial/material-kit-react) by Creative Tim.
 
 
 ## Dependencies
